@@ -1,1 +1,1 @@
-# isskashima-slcmd
+# slcmd
